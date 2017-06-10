@@ -4,7 +4,7 @@
   "description": "sim",
   "main": "servidor.js",
   "scripts": {
-    "test": "teste1"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
