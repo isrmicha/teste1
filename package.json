@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/isrmicha2/teste1.git"
+    "url": "git+https://github.com/isrmicha/teste1.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/isrmicha2/teste1/issues"
+    "url": "https://github.com/isrmicha/teste1/issues"
   },
-  "homepage": "https://github.com/isrmicha2/teste1#readme"
+  "homepage": "https://github.com/isrmicha/teste1#readme"
 }
